@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
+title:  participant scores
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: If you have participated in one of my experiments with public scores, you can find them here
 nav: false
-nav_order: 2
+nav_order: 4
 display_categories: [work, fun]
 horizontal: false
 ---
