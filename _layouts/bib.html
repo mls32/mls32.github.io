@@ -128,12 +128,12 @@
         <div class="periodical">
           {{ entry.note | strip }}
         </div>
+        <div class = "doi">
+          {{ entry.doi | strip }}
+        </div>
 
           <!-- Links/Buttons -->
           <div class="links">
-          {%- if entry.doi %}
-            <a href="{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">Link</a>
-          {%- endif %}
           {%- if entry.abstract %}
             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
           {%- endif %}
@@ -144,7 +144,7 @@
             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
           {%- endif %}
           {%- if entry.html %}
-            <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
+            <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">Link</a>
           {%- endif %}
           {%- if entry.pdf %}
             {% if entry.pdf contains '://' -%}
