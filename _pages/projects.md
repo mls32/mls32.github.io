@@ -5,7 +5,7 @@ permalink: /projects/
 description: If you have participated in one of my experiments with public scores, you can find them here
 nav: true
 nav_order: 4
-display_categories: [work, fun]
+display_categories: [2023, 2022]
 horizontal: false
 ---
 
