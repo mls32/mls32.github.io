@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Moritz
-middle_name: 
+middle_name:
 last_name: Schiltenwolf
 email: moritz.schiltenwolf{a/t}uni-tuebingen.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -249,8 +249,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Schiltenwolf]
+  first_name: [Moritz]
 
   style: apa
   locale: en
