@@ -128,12 +128,12 @@
         <div class="periodical">
           {{ entry.note | strip }}
         </div>
-        <div class = "doi">
-          {{ entry.doi | strip }}
-        </div>
 
           <!-- Links/Buttons -->
           <div class="links">
+          {%- if entry.doi %}
+            {{entry.doi}}
+          {%- endif %}
           {%- if entry.abstract %}
             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
           {%- endif %}
