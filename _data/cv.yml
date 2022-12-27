@@ -18,15 +18,15 @@
     - title: PhD
       institution: University of Tuebingen, Germany
       year: 2019-now
-      description: Topic: Binding and Retrieval of Control States.
+      description: Topic&#58;Binding and Retrieval of Control States.
     - title: M.Sc. Psychology
       institution: University of Freiburg, Germany
       year: 2016-2018
-      description: Thesis: The causal role of affect in the implementation of cognitive control.
+      description: Thesis&#58; The causal role of affect in the implementation of cognitive control.
     - title: B.Sc. Psychology
       institution: University of Freiburg, Germany
       year: 2012-2016
-      description: Thesis: Machiavellism in context of social groups.
+      description: Thesis&#58; Machiavellism in context of social groups.
 
 - title: Experience
   type: time_table
