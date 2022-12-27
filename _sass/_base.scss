@@ -605,8 +605,14 @@ footer.sticky-bottom {
 }
 
 @media all and (max-width: 576px) {
-  .preview {
-      display: none;
+  .publications {
+    ol.bibliography {
+      li{
+        .preview {
+          display: none;
+        }
+      }
+    }
   }
 }
 
