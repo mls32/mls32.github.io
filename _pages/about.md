@@ -8,7 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  address: >
+  address:
+    <p>Institut für Psychologie</p>
     <p>Schleichstr 4</p>
     <p>72076, Tübingen</p>
 
