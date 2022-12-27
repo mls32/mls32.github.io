@@ -604,6 +604,12 @@ footer.sticky-bottom {
   }
 }
 
+@media all and (max-width: 576px) {
+  .preview {
+      display: none;
+  }
+}
+
 // Rouge Color Customization
 figure.highlight {
   margin: 0 0 1rem;
