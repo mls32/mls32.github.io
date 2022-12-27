@@ -7,7 +7,7 @@ subtitle: <a href='#https://uni-tuebingen.de/fakultaeten/mathematisch-naturwisse
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>Schleichstr 4</p>
     <p>72076, Tübingen</p>
