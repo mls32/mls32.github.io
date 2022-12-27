@@ -123,8 +123,10 @@ blockquote {
 
 @media all and (max-width: 576px) {
   .profile {
+    figure{
       display: none;
     }
+  }
 }
 
 .post-description {
