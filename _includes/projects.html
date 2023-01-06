@@ -7,11 +7,9 @@
     <a href="{{ project.url | relative_url }}">
       {%- endif %}
       <div class="card hoverable">
-        {%- assign card_image_class = "img-fluid z-depth-1 rounded-circle" -%}
         {%- if project.img %}
         {%- include figure.html
           path=project.img
-          class=card_image_class
           alt="project thumbnail" -%}
         {%- endif %}
         <div class="card-body">
