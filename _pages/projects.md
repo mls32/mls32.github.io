@@ -1,11 +1,11 @@
 ---
 layout: page
-title:  participant scores
-permalink: /projects/
-description: If you have participated in one of my experiments with public scores, you can find them here
-nav: false
+title:  Keynotes
+permalink: /keynotes/
+description:
+nav: true
 nav_order: 4
-display_categories: [2023, 2022]
+display_categories: [Topic1, Topic2]
 horizontal: false
 ---
 
