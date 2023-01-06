@@ -1,6 +1,7 @@
 ---
 layout: about
 title: about
+subtitle: Bridging psychological practice and scientific research
 permalink: /
 subtitle: #<a href='#https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/psychologie/arbeitsbereiche/allgemeine-psychologie/team/moritz-schiltenwolf/'>University of Tuebingen</a>
 
