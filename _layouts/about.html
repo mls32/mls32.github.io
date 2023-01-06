@@ -14,7 +14,7 @@ layout: default
         <article>
           {% if page.profile -%}
           <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
-            {% twitter https://twitter.com/jekyllrb maxwidth=500 limit=3 %}
+            {% twitter https://twitter.com/ml_schreiter maxwidth=500 limit=1 %}
           </div>
           {%- endif %}
 
@@ -35,15 +35,14 @@ layout: default
           <!-- Social -->
           <div class="social">
             <div class="contact-icons">
+              {% include banner.html %}
+              </div>
+            <div class="contact-icons">
             {% include social.html %}
             </div>
-
             <div class="contact-note">
               {{ site.contact_note }}
             </div>
-            <div class="contact-icons">
-              {% include banner.html %}
-              </div>
           </div>
           {%- endif %}
 
