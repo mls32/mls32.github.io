@@ -1,9 +1,10 @@
 ---
 layout: about
 title: about
+maintitle: Interdisciplinary Perspectives on Mental Health
 subtitle: Bridging psychological practice and scientific research
 permalink: /
-subtitle: #<a href='#https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/psychologie/arbeitsbereiche/allgemeine-psychologie/team/moritz-schiltenwolf/'>University of Tuebingen</a>
+
 
 profile:
   align: right
