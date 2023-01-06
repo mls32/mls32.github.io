@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Keynotes
+title:  keynotes
 permalink: /keynotes/
 description:
 nav: true
