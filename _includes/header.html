@@ -5,7 +5,9 @@
       <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
         <div class="container">
           {% if page.permalink != '/' -%}
-          <img style="height:50px;" src="assets/img/ICSMH23.jpg">
+          <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
+             <img style="height:50px;" src="assets/img/ICSMH23.png">
+           </a>
           <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
             {%- if site.title == "blank" -%}
               {%- if site.first_name -%}
