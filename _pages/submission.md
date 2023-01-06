@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /submission/
-title: submission
+permalink: /submissions/
+title: submissions
 description:
 nav: true
 nav_order: 3
