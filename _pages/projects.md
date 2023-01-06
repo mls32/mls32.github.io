@@ -5,7 +5,7 @@ permalink: /keynotes/
 description:
 nav: true
 nav_order: 4
-display_categories: [Topic1, Topic2]
+display_categories:
 horizontal: false
 ---
 
