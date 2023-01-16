@@ -16,8 +16,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
-The gap between the disciplines: Bridging therapeutic practice and basic science
+<p class="font-weight-bold">The gap between the disciplines: Bridging therapeutic practice and basic science</p>
 
 Although  psychotherapeutic  practice  and  psychological  science  emerged  from  neurology, differences  in  terminology,  working  concepts  and  perspectives  have  hindered  collaboration throughout  most  of  the  20th  century.  Indeed,  clinical  psychologists  have  developed  a metaphor-rich language of the mind and brain, while cognitive neuroscience and experimental psychology  have  built  a  detailed  database  of  brain-behaviour  relationships.  However,  an important  gap  that  is  rarely  discussed  is  how  to  translate  the  data  on brain-behaviour relationships to clinically relevant concepts and interventions. Psychological problems affect a person's health at multiple levels, altering underlying physiological, perceptual, emotional, and cognitive  processes.  We  therefore  need  a  forum  for  interdisciplinary  exchange  between experts  in  basic  brain  science,  practitioners,  and  clinicians  to  identify  future  research directions,  formulate  valuable  new  questions  for  basic  research  and  re-evaluate  practice guidelines.
 
@@ -28,4 +27,4 @@ The main objectives of the conference include:
 •Align working concepts and constructs between disciplines of scientific research and therapeutic practice.
 •Develop   newresearch   hypotheses   to   identify   more   targeted   and   innovative interventions.
 
-The  three-day  conference  is  divided  into  a  small  number  of  keynote-like  presentations  and several specific symposia. With our keynote speakers, we invite early career researchers and students to submit talks and poster presentations. We particularly welcome contributions from early career researchers from a variety of disciplines in psychology who are interested in re-evaluating  and  improving  active  collaborations  between  cognitive  psychology,  mechanistic neuroscience, and clinical, therapeuticpractice. 
+The  three-day  conference  is  divided  into  a  small  number  of  keynote-like  presentations  and several specific symposia. With our keynote speakers, we invite early career researchers and students to submit talks and poster presentations. We particularly welcome contributions from early career researchers from a variety of disciplines in psychology who are interested in re-evaluating  and  improving  active  collaborations  between  cognitive  psychology,  mechanistic neuroscience, and clinical, therapeuticpractice.
