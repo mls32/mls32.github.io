@@ -20,6 +20,9 @@ layout: default
               <a href={page.html} class="link-primary card-text">Personal Website</a>
               {%- endif -%}
               <p class="card-text">Keynote {{page.description}}</p>
+              {%- if page.twitter -%}
+              <a href="https://twitter.com/{{ page.twitter }}" title="Twitter"><i class="fab fa-twitter"></i></a>
+              {% endif %}
               </div>
             </div>
 
