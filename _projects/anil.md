@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: profile
 title: Anil Seth
 description:   EMOTION AND PREDICTION
+affiliation: University of Sussex
+html: https://www.anilseth.com/
 img: assets/img/anil.png
 importance: 1
 category: Topic1

@@ -2,6 +2,8 @@
 layout: page
 title: Peggy Series
 description: DISORDERS OF PREDICTION
+affiliation: University of Edinburgh
+html: https://homepages.inf.ed.ac.uk/pseries/
 img: assets/img/peggy.png
 importance: 1
 category: Topic1
