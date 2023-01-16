@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Peter Jacob
+title: Peter Jakob
 description: THERAPEUTIC PRACTICE
 img: assets/img/peter.png
 importance: 1
