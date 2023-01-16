@@ -1,4 +1,4 @@
-<div class="card-item col">
+<div class="card-item col p-2">
   {%- if project.redirect -%}
   <a href="{{ project.redirect }}">
   {%- else -%}
@@ -7,7 +7,7 @@
     <div class="card hoverable">
       <div class="row g-0">
         {%- if project.img -%}
-        <div class="card-img col-md-6 p-3">
+        <div class="card-img col-md-6">
           {% include figure.html path=project.img alt="project thumbnail" class="rounded-circle"%}
         </div>
         <div class="col-md-6">
@@ -38,3 +38,4 @@
     </div>
   </a>
 </div>
+<!-- p-3 for line 10 -->
