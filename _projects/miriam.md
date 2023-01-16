@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: profile
 title: Miriam Schiele
 description: MECHANISMS OF THERAPY
 affiliation: University Medical Center Freiburg

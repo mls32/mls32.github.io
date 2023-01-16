@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: profile
 title: Peggy Series
 description: DISORDERS OF PREDICTION
 affiliation: University of Edinburgh
