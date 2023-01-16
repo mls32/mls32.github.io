@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Anil Seth
-description:   Anil Seth is a neuroscientist and author[....]
-img: assets/img/seth.jpg
+description:   EMOTION AND PREDICTION
+img: assets/img/anil.png
 importance: 1
 category: Topic1
 ---

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Speaker4
-description: has some good books to sell
-img: assets/img/12.jpg
+title: Miriam Schiele
+description: MECHANISMS OF THERAPY
+img: assets/img/miriam.png
 importance: 1
 category: Topic1
 ---
