@@ -13,8 +13,12 @@ layout: default
                 class=profile_image_class
                 alt=page.img -%}
               <h1 class="card-title">{{page.title }}</h1>
+              {%- if page.affiliation -%}
               <p class="card-text">{{page.affiliation}}</p>
+              {%- endif -%}
+              {%- if page.html -%}
               <a href={page.html} class="link-primary card-text">Personal Website</a>
+              {%- endif -%}
               <p class="card-text">Keynote {{page.description}}</p>
               </div>
             </div>
