@@ -7,5 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-Here is the location.
-<iframe src="https://goo.gl/maps/Mfw4zeRhD4x3sdqv5" width="640" height="480"></iframe>
+Coming soon.
+<!-- Here is the location.
+<iframe src="https://goo.gl/maps/Mfw4zeRhD4x3sdqv5" width="640" height="480"></iframe> -->
