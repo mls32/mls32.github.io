@@ -7,6 +7,18 @@ nav: true
 nav_order: 2
 ---
 
-Coming soon.
-<!-- Here is the location.
-<iframe src="https://goo.gl/maps/Mfw4zeRhD4x3sdqv5" width="640" height="480"></iframe> -->
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/location1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/location2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/location3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+Heidelberger Akademie der Wissenschaften
+Karlstraße 4
+69117 Heidelberg
