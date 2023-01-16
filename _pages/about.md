@@ -22,9 +22,9 @@ Although  psychotherapeutic  practice  and  psychological  science  emerged  fro
 
 This conference brings together leading experts and early career scientists in the field of perception, cognition, and emotion. In addition, we invite experienced clinicians and young therapists to share their practical knowledge and hands-on experiences with patients about successful behavioural and psychological change through psychotherapy.
 
-The main objectives of the conference include:
-•Promote exchange and collaboration between researchers and practitioners.
-•Align working concepts and constructs between disciplines of scientific research and therapeutic practice.
-•Develop   newresearch   hypotheses   to   identify   more   targeted   and   innovative interventions.
+<p class="font-weight-bold">The main objectives of the conference include:</p>
+<li>Promote exchange and collaboration between researchers and practitioners.</li>
+<li>Align working concepts and constructs between disciplines of scientific research and therapeutic practice.</li>
+<li>Develop   newresearch   hypotheses   to   identify   more   targeted   and   innovative interventions.</li>
 
 The  three-day  conference  is  divided  into  a  small  number  of  keynote-like  presentations  and several specific symposia. With our keynote speakers, we invite early career researchers and students to submit talks and poster presentations. We particularly welcome contributions from early career researchers from a variety of disciplines in psychology who are interested in re-evaluating  and  improving  active  collaborations  between  cognitive  psychology,  mechanistic neuroscience, and clinical, therapeuticpractice.
