@@ -7,9 +7,13 @@ layout: default
           <article>
             <div class="profile float-left">
               <div class="cardProfile">
-              <img src="img.jpg" alt="John" style="width:100%">
+                {%- assign profile_image_path = page.img -%}
+                {% include figure.html
+                path=profile_image_path
+                class=profile_image_class
+                alt=page.img -%}
               <h1 class="titleProfile">{{page.title }}</h1>
-              <p class="address">{{page.description}}</p>
+              <p class="card-text">{{page.description}}</p>
               <p>TEST</p>
               </div>
             </div>
