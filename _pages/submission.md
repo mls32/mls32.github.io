@@ -4,7 +4,7 @@ permalink: /submissions/
 title: submissions
 description:
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 We are looking forward to contributions (talks or posters) from practitioners/psychotherapists as well as young researchers who would like to contribute to the exchange between the psychological disciplines. We also encourage contributions from early career researchers from different disciplines of psychology who are interested in re-evaluating and improving the active collaboration between cognitive psychology, mechanistic neuroscience and clinical practice. Due to availability of places, we will give preference to registrations with a contribution, but places are also available for interested guests without a contribution.

@@ -4,7 +4,7 @@ permalink: /location/
 title: location
 description:
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <div class="row">
