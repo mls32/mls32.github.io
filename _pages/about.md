@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-maintitle: Interdisciplinary conference on the study of mental health
+maintitle: Interdisciplinary conference <br> on the study of mental health
 subtitle: Bridging psychological practice and scientific research
 permalink: /
 
