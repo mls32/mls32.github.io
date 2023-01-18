@@ -20,6 +20,7 @@ We would welcome many submissions from practising psychologists (adults, but als
 <p class="font-weight-bold">For researchers in psychology and neuroscience</p>
 We would equally welcome researchers in the fields of cognitive neuroscience and experimental psychology. It is emphasised that experts in these disciplines need not have a clinical focus. The conference will enable concepts and constructs from clinical practice and therapy to be combined with conceptual proposals from cognitive neuroscience and experimental psychology, enabling an overarching framework from the symptom to the experiential level. To achieve a common approach, we need to bridge the existing gap between the invaluable knowledge base of clinical and psychotherapeutic practice and psychological and cognitive neuroscientific methods. We therefore also need a forum for interdisciplinary exchange among experts in basic brain science to identify future research directions, formulate more relevant research questions for basic investigations and re-evaluate practice guidelines.
 
+
 <p class="font-weight-bold">Mentor Lectures</p>
 The conference will be divided into a small number of keynote-like "Mentor Lectures" (60 min presentation + 30 min discussion) and a series of more focused "Symposia" (120 min / 3 presentations á 20 min + 30 min discussion). The invited speakers will be scientists/practitioners who will give an overview of the state of the art on their respective topic (theory, practice, computational psychiatry, basic mechanisms) in their lectures. These lectures will form the basis for the discussion.
 
@@ -28,3 +29,6 @@ The symposia are organised to address focused topics (neurobiology, intervention
 
 <p class="font-weight-bold">Poster sessions</p>
 Finally, we would like to involve and encourage student participants (BSc, MSc, PhD) to submit posters. Poster sessions are conveniently held on the 2nd and 3rd day so that all conference subjects can participate. This provides an opportunity for students and early career researchers/practitioners to meet and exchange ideas with researchers in their field. It is also a unique opportunity to share their own work with leading professionals from different disciplines.
+
+<a href="https://eu.jotform.com/build/223261455349053?iak=60128229eca3c2855c78ddb20c517630-c891169cbfec7441" class="link-primary font-weight-bold">REGISTER HERE</a>
+
