@@ -30,5 +30,6 @@ The symposia are organised to address focused topics (neurobiology, intervention
 <p class="font-weight-bold">Poster sessions</p>
 Finally, we would like to involve and encourage student participants (BSc, MSc, PhD) to submit posters. Poster sessions are conveniently held on the 2nd and 3rd day so that all conference subjects can participate. This provides an opportunity for students and early career researchers/practitioners to meet and exchange ideas with researchers in their field. It is also a unique opportunity to share their own work with leading professionals from different disciplines.
 
+
 <a href="https://eu.jotform.com/build/223261455349053?iak=60128229eca3c2855c78ddb20c517630-c891169cbfec7441" class="link-primary font-weight-bold">REGISTER HERE</a>
 
