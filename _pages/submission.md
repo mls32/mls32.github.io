@@ -6,9 +6,9 @@ description:
 nav: true
 nav_order: 4
 ---
-<div class="profile col-sm mt-3 mt-md-0 float-right hoverable">
+<div class="profile col-sm mt-3 mt-md-0 float-right">
   <a href="https://form.jotform.com/223261455349053" title="Personal Website">
-     {% include figure.html path="assets/img/registration.png" title="registration" class="img-fluid rounded z-depth-1" %}
+     {% include figure.html path="assets/img/registration.png" title="registration" class="img-fluid rounded z-depth-1 hoverable" %}
   </a>
  </div>
 
