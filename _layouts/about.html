@@ -31,6 +31,11 @@ layout: default
             {% twitter https://twitter.com/ICSMH23 maxwidth=500 limit=1 %}
           </div>
           {%- endif %}
+          <div class="card-body">
+            <h3 class="card-title">{{ Contact }}</h3>
+            <p class="card-text">{{ Organization: Marie Luise Schreiter }}</p>
+            <a href="mailto:{{ site.email | encode_email }}" title="email"><p class="card-text">{{ For questions please contact us per mail }}</p><i class="fas fa-envelope"></i></a> 
+          </div>
 
           <div class="clearfix">
             {{ content }}
