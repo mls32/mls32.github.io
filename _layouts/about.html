@@ -29,17 +29,18 @@ layout: default
              alt=page.profile.image -%}
            {% endif -%}
             {% twitter https://twitter.com/ICSMH23 maxwidth=500 limit=1 %}
-            <div class="card-item col">
-              <a href="mailto:{{ site.email | encode_email }}" title="contact">
+            <div class="card-item col mt-1">
                 <div class="card hoverable">
                       <div class="card-body p-3">
-                        <h3 class="card-title">{{ Contact }}</h3>
-                        <p class="card-text">Organization: Marie Luise Schreiter </p>
-                        <p class="card-text">For questions please contact us per mail</p>
-                        <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope"></i></a>
+                        <h3 class="card-title">Contact</h3>
+                        <p class="card-text">Organization by </p>
+                        <p class="card-text">Marie Luise Schreiter </p>
+                        <a href="mailto:{{ site.email | encode_email }}" title="email">
+                          <p class="card-text">For questions please contact us per mail:</p>
+                          <p class="card-text">winconference@psycho.uni-tuebingen.de</p>
+                        </a>
                       </div>
                     </div>
-              </a>
             </div>
           </div>
           {%- endif %}
