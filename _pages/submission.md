@@ -11,7 +11,7 @@ We are looking forward to contributions (talks or posters) from practitioners/ps
 
 <p class="font-weight-bold">We will cover travel expenses and accommodation for participants whose contribution has been accepted as a paper in one of the symposia (topics for papers could include: cognitive control, attention, computational psychiatry, interventions, emotion regulation, subjective experience, underlying mechanisms of cognition-emotion interactions, psychotherapeutic practice, and methods). Submissions are requested to include an abstract and a brief explanation of how their contribution is valuable to the collaboration between scientific research and therapeutic practice.</p>
 
-<a href="https://eu.jotform.com/build/223261455349053?iak=60128229eca3c2855c78ddb20c517630-c891169cbfec7441" class="link-primary font-weight-bold">REGISTER HERE</a>
+<a href="https://form.jotform.com/223261455349053" class="link-primary font-weight-bold">REGISTER HERE</a>
 
 <p class="font-weight-bold">For clinical psychologists and therapists</p>
 We would welcome many submissions from practising psychologists (adults, but also child and adolescent psychotherapy), as an important part of the conference is based on clinical working psychologists sharing their perspective. We are convinced that the experience gained from direct contact with patients and clients is a valuable source of information for the development of new relevant research questions and should again play a central role in the development of scientific approaches. The conference aims to achieve a balance between clinical and academic experts and explicitly supports contributions from practising psychologists and psychotherapists. Submission topics may include, for example, issues and approaches related to specific strategies in practice (attention, emotional regulation, cognitive control, social behaviour), approaches to diagnosis, assessment of subjective experience, communication strategies, methodology, evaluation of therapeutic progress.
@@ -31,5 +31,4 @@ The symposia are organised to address focused topics (neurobiology, intervention
 Finally, we would like to involve and encourage student participants (BSc, MSc, PhD) to submit posters. Poster sessions are conveniently held on the 2nd and 3rd day so that all conference subjects can participate. This provides an opportunity for students and early career researchers/practitioners to meet and exchange ideas with researchers in their field. It is also a unique opportunity to share their own work with leading professionals from different disciplines.
 
 
-<a href="https://eu.jotform.com/build/223261455349053?iak=60128229eca3c2855c78ddb20c517630-c891169cbfec7441" class="link-primary font-weight-bold">REGISTER HERE</a>
-
+<a href="https://form.jotform.com/223261455349053" class="link-primary font-weight-bold">REGISTER HERE</a>
