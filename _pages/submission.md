@@ -39,6 +39,7 @@ The conference will be divided into a small number of keynote-like "Mentor Lectu
 The symposia are organised to address focused topics (neurobiology, interventions, computational psychiatry, subjective experience, behavioural measures of relevant constructs). Three short lectures will be given per symposium by young researchers who will examine the respective topic from different interdisciplinary perspectives and present the latest findings on this topic. The symposium lectures will be shorter and more focused than the Mentor Lectures. Mentors will be invited to participate in and guide all discussions to steer the conversation towards the overall goals of the conference.
 
 <br>
+<br>
 <p class="font-weight-bold">Poster sessions</p>
 Finally, we would like to involve and encourage student participants (BSc, MSc, PhD) to submit posters. Poster sessions are conveniently held on the 2nd and 3rd day so that all conference subjects can participate. This provides an opportunity for students and early career researchers/practitioners to meet and exchange ideas with researchers in their field. It is also a unique opportunity to share their own work with leading professionals from different disciplines.
 
