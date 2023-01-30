@@ -14,6 +14,9 @@ layout: default
         <article class="text-justify">
           {% if page.profile -%}
           <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
+            <h1 class="post-title">
+              July 10th - 12th
+            </h1>
             {%- if page.profile.image %}
              {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
 
