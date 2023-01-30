@@ -17,7 +17,7 @@ layout: default
             <h2 class="post-title">
               July 10th-12th
             </h2>
-            h2.setAttribute("style", "color: var(--global-theme-color);");
+            {% h2.setAttribute("style", "color: var(--global-theme-color);");%}
             {%- if page.profile.image %}
              {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
 
