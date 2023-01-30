@@ -13,6 +13,7 @@ nav_order: 3
   </div>
 </div>
 <br>
+July 10th - 12th 2023
 <br>
 Heidelberger Akademie der Wissenschaften <br>
 Karlstraße 4<br>
