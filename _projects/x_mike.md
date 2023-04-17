@@ -1,6 +1,6 @@
 ---
 layout: profile
-title: Mike Rinck
+title: Mike <br>Rinck
 description:   COGNITIVE BIAS MODIFICATION
 affiliation: Radboud University Nijmegen
 html: https://www.ru.nl/en/people/rinck-m 

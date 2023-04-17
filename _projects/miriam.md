@@ -1,6 +1,6 @@
 ---
 layout: profile
-title: Miriam Schiele
+title: Miriam <br>Schiele
 description: MECHANISMS OF THERAPY
 affiliation: University Medical Center Freiburg
 html: https://www.uniklinik-freiburg.de/psych/team/schiele.html

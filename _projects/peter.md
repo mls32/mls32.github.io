@@ -1,6 +1,6 @@
 ---
 layout: profile
-title: Peter Jakob
+title: Peter <br>Jakob
 description: THERAPEUTIC PRACTICE
 affiliation: 
 html:

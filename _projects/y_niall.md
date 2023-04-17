@@ -1,6 +1,6 @@
 ---
 layout: profile
-title: Niall Boyce
+title: Niall <br>Boyce
 description:   COLLABORATION IN MENTAL HEALTH RESEARCH
 affiliation: Wellcome
 html: https://wellcome.org/who-we-are/people/niall-boyce
