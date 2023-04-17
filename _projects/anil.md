@@ -1,6 +1,6 @@
 ---
 layout: profile
-title: Anil    Seth
+title: Anil     Seth
 description:   EMOTION AND PREDICTION
 affiliation: University of Sussex
 html: https://www.anilseth.com/
