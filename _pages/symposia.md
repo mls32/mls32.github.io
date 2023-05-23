@@ -8,17 +8,70 @@ nav_order: 3
 ---
 
 
-<div class="card mb-3" style="max-width: 50%;">
-  <div class="card-header">Symposium 1 - Methods</div>
-  <div class="card-body">
-    <ul class="list-group">
-      <li class="list-group-item"><p><b>Jenny Murphy</b><br><i>Royal Holloway University, London, UK</i></p></li>
-      <li class="list-group-item"><p class="font-weight-bold">Katja Langer </p><br><p class="font-italic">Ruhr Uni Bochum, DE</p></li>
-      <li class="list-group-item"><p class="font-weight-bold">Stefanie Schelinski</p><br><p class="font-italic">TU Dresden, DE </p></li>
-      <li class="list-group-item"><p class="font-weight-bold">Michaela Rohr </p><br><p class="font-italic">Uni Saarland, DE</p></li>
-    </ul>
+<div class="row row-cols-1 row-cols-md-2">
+  <div class="col mb-4">
+    <div class="card mb-3"">
+      <div class="card-header">Symposium 1 - Methods</div>
+        <div class="card-body">
+          <ul class="list-group">
+            <li class="list-group-item"><p><b>Jenny Murphy</b><br><i>Royal Holloway University, London, UK</i></p></li>
+            <li class="list-group-item"><p><b>Katja Langer</b><br><i>Ruhr Uni Bochum, DE</i></p></li>
+            <li class="list-group-item"><p><b>Stefanie Schelinski</b><br><i>TU Dresden, DE</i></p></li>
+            <li class="list-group-item"><p><b>Michaela Rohr</b><br><i>Saarland University, DE</i></p></li>
+          </ul>
+        </div>
+      </div>
+    </div>
   </div>
+  <div class="col mb-4">
+    <div class="card mb-3"">
+      <div class="card-header">Symposium 1 - Methods</div>
+        <div class="card-body">
+          <ul class="list-group">
+            <li class="list-group-item"><p><b>Jenny Murphy</b><br><i>Royal Holloway University, London, UK</i></p></li>
+            <li class="list-group-item"><p><b>Katja Langer</b><br><i>Ruhr Uni Bochum, DE</i></p></li>
+            <li class="list-group-item"><p><b>Stefanie Schelinski</b><br><i>TU Dresden, DE</i></p></li>
+            <li class="list-group-item"><p><b>Michaela Rohr</b><br><i>Saarland University, DE</i></p></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col mb-4">
+    <div class="card mb-3"">
+      <div class="card-header">Symposium 1 - Methods</div>
+        <div class="card-body">
+          <ul class="list-group">
+            <li class="list-group-item"><p><b>Jenny Murphy</b><br><i>Royal Holloway University, London, UK</i></p></li>
+            <li class="list-group-item"><p><b>Katja Langer</b><br><i>Ruhr Uni Bochum, DE</i></p></li>
+            <li class="list-group-item"><p><b>Stefanie Schelinski</b><br><i>TU Dresden, DE</i></p></li>
+            <li class="list-group-item"><p><b>Michaela Rohr</b><br><i>Saarland University, DE</i></p></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col mb-4">
+    <div class="card mb-3"">
+      <div class="card-header">Symposium 1 - Methods</div>
+        <div class="card-body">
+          <ul class="list-group">
+            <li class="list-group-item"><p><b>Jenny Murphy</b><br><i>Royal Holloway University, London, UK</i></p></li>
+            <li class="list-group-item"><p><b>Katja Langer</b><br><i>Ruhr Uni Bochum, DE</i></p></li>
+            <li class="list-group-item"><p><b>Stefanie Schelinski</b><br><i>TU Dresden, DE</i></p></li>
+            <li class="list-group-item"><p><b>Michaela Rohr</b><br><i>Saarland University, DE</i></p></li>
+          </ul>
+        </div>
+      </div>
+    </div>
 </div>
+
+
+
+
+
+
+
 
 <div class="card card-body">
     <ul class="list-group">
