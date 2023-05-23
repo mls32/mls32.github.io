@@ -10,7 +10,6 @@ nav_order: 4
 
 <button type="button" class="collapsible">Open Schedule</button>
 <div class="content">
-  {% include figure.html path="assets/img/timetable.png" title="schedule" class="img-fluid rounded z-depth-1" %}
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
 
