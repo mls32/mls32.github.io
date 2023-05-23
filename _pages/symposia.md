@@ -17,8 +17,10 @@ nav_order: 4
   </button>
 </p>
 <div class="collapse" id="collapseExample">
-  <div class="card card-body">
-    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.html path="assets/img/timetable.png" title="schedule" class="img-fluid rounded z-depth-1" %}
+    </div>
   </div>
 </div>
 
