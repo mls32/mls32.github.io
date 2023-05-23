@@ -27,11 +27,26 @@ nav_order: 3
     <div class="card">
       <div class="card-header">Symposium 2 - Expectations</div>
         <div class="card-body">
+          <p class="card-title">Chair: Marie Luise Schreiter, University Tübingen, DE</p>
           <ul class="list-group">
-            <li class="list-group-item"><p><b>Jenny Murphy</b><br><i>Royal Holloway University, London, UK</i></p></li>
-            <li class="list-group-item"><p><b>Katja Langer</b><br><i>Ruhr Uni Bochum, DE</i></p></li>
-            <li class="list-group-item"><p><b>Stefanie Schelinski</b><br><i>TU Dresden, DE</i></p></li>
-            <li class="list-group-item"><p><b>Michaela Rohr</b><br><i>Saarland University, DE</i></p></li>
+            <li class="list-group-item"><p><b>Nils Kraus</b><br><i>Psychologische Hochschule Berlin, DE</i></p></li>
+            <li class="list-group-item"><p><b>Maxine Sherman</b><br><i>iversity of Sussex, UK</i></p></li>
+            <li class="list-group-item"><p><b>Pete Lush</b><br><i>University of Sussex, UK</i></p></li>
+            <li class="list-group-item"><p><b>Anne Catherine Ewen</b><br><i>Centre Hospitalier Neuro-Psychiatrique Luxemburg</i></p></li>
+          </ul>
+        </div>
+    </div>
+  </div>
+  <div class="col mb-4">
+    <div class="card">
+      <div class="card-header">Symposium 3 - Computational Models</div>
+        <div class="card-body">
+          <p class="card-title">Chair: Nico Adelhöfer, Radboud University, NL</p>
+          <ul class="list-group">
+            <li class="list-group-item"><p><b>Isabel Berwian</b><br><i>Princeton Neuroscience Institute, Princeton University, US</i></p></li>
+            <li class="list-group-item"><p><b>Ismail Guennouni</b><br><i>UCL, UK / Mannheim University, DE</i></p></li>
+            <li class="list-group-item"><p><b>Christoph Korn</b><br><i>Heidelberg University, DE</i></p></li>
+            <li class="list-group-item"><p><b>Warrick Roseboom</b><br><i>University of Sussex, DE</i></p></li>
           </ul>
         </div>
     </div>
@@ -41,61 +56,12 @@ nav_order: 3
       <div class="card-header">Symposium 1 - Methods</div>
         <div class="card-body">
           <ul class="list-group">
-            <li class="list-group-item"><p><b>Jenny Murphy</b><br><i>Royal Holloway University, London, UK</i></p></li>
-            <li class="list-group-item"><p><b>Katja Langer</b><br><i>Ruhr Uni Bochum, DE</i></p></li>
-            <li class="list-group-item"><p><b>Stefanie Schelinski</b><br><i>TU Dresden, DE</i></p></li>
-            <li class="list-group-item"><p><b>Michaela Rohr</b><br><i>Saarland University, DE</i></p></li>
-          </ul>
-        </div>
-    </div>
-  </div>
-  <div class="col mb-4">
-    <div class="card">
-      <div class="card-header">Symposium 1 - Methods</div>
-        <div class="card-body">
-          <ul class="list-group">
-            <li class="list-group-item"><p><b>Jenny Murphy</b><br><i>Royal Holloway University, London, UK</i></p></li>
-            <li class="list-group-item"><p><b>Katja Langer</b><br><i>Ruhr Uni Bochum, DE</i></p></li>
-            <li class="list-group-item"><p><b>Stefanie Schelinski</b><br><i>TU Dresden, DE</i></p></li>
-            <li class="list-group-item"><p><b>Michaela Rohr</b><br><i>Saarland University, DE</i></p></li>
+            <li class="list-group-item"><p><b>Maike Salazar Kämpf</b><br><i>TU Dresden, DE</i></p></li>
+            <li class="list-group-item"><p><b>Luke Aldridge-Waddon</b><br><i>Oxford Health NHS Foundation Trust, UK</i></p></li>
+            <li class="list-group-item"><p><b>Barbara Schmidt</b><br><i>University Hospital Jena, DE</i></p></li>
+            <li class="list-group-item"><p><b>Nina Gehrer</b><br><i>University of Tübingen, DEE</i></p></li>
           </ul>
         </div>
     </div>
   </div>
 </div>
-
-<div class="card card-body">
-    <ul class="list-group">
-      <li class="list-group-item"><p class="font-weight-bold">Jenny Murphy</p><br><p class="font-italic">Royal Holloway University, London, UK</p></li>
-      <li class="list-group-item"><p class="font-weight-bold">Katja Langer </p><br><p class="font-italic">Ruhr Uni Bochum, DE</p></li>
-      <li class="list-group-item"><p class="font-weight-bold">Stefanie Schelinski</p><br><p class="font-italic">TU Dresden, DE </p></li>
-      <li class="list-group-item"><p class="font-weight-bold">Michaela Rohr </p><br><p class="font-italic">Uni Saarland, DE</p></li>
-    </ul>
-  </div>
-
-<div class="card card-body">
-  <ul class="list-group">
-    <li class="list-group-item"><p class="font-weight-bold">Nils Kraus</p><br><p class="font-italic">Psychologische Hochschule Berlin, DE</p></li>
-    <li class="list-group-item"><p class="font-weight-bold">Maxine Sherman</p><br><p class="font-italic">University of Sussex, UK</p></li>
-    <li class="list-group-item"><p class="font-weight-bold">Pete Lush</p><br><p class="font-italic">University of Sussex, UK</p></li>
-    <li class="list-group-item"><p class="font-weight-bold">Anne Catherine Ewen</p><br><p class="font-italic">Centre Hospitalier Neuro-Psychiatrique Luxemburg</p></li>
-  </ul>
-</div>
-
- <div class="card card-body">
-    <ul class="list-group">
-      <li class="list-group-item"><p class="font-weight-bold">Isabel Berwian</p><br><p class="font-italic">Princeton Neuroscience Institute, Princeton University, US</p></li>
-      <li class="list-group-item"><p class="font-weight-bold">Ismail Guennouni</p><br><p class="font-italic">UCL, UK / Mannheim University, DE</p></li>
-      <li class="list-group-item"><p class="font-weight-bold">Christoph Korn</p><br><p class="font-italic">Heidelberg University, DE</p></li>
-      <li class="list-group-item"><p class="font-weight-bold">Warrick Roseboom</p><br><p class="font-italic">University of Sussex, DE</p></li>
-    </ul>
-  </div>
-
-   <div class="card card-body">
-    <ul class="list-group">
-      <li class="list-group-item"><p class="font-weight-bold">Maike Salazar Kämpf</p><br><p class="font-italic">TU Dresden, DE</p></li>
-      <li class="list-group-item"><p class="font-weight-bold">Luke Aldridge-Waddon</p><br><p class="font-italic">Oxford Health NHS Foundation Trust, UK</p></li>
-      <li class="list-group-item"><p class="font-weight-bold">Barbara Schmidt </p><br><p class="font-italic">University Hospital Jena, DE</p></li>
-      <li class="list-group-item"><p class="font-weight-bold">Nina Gehrer</p><br><p class="font-italic">University of Tübingen, DE</p></li>
-    </ul>
-  </div>
