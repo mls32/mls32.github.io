@@ -10,13 +10,16 @@ nav_order: 3
 <p>
   <a class="btn btn-primary" data-bs-toggle="collapse" href="#symp1" role="button" aria-expanded="false" aria-controls="symp1">
     Symposium 1 - Methods
-  </button>
+  </a>
+
   <a class="btn btn-primary" data-bs-toggle="collapse" href="#symp2" role="button" aria-expanded="false" aria-controls="symp2">
     Symposium 2 - Expectations
-  </button>
+  </a>
+
   <a class="btn btn-primary" data-bs-toggle="collapse" href="#symp3" role="button" aria-expanded="false" aria-controls="symp3">
     Symposium 3 - Computational Models
-  </button>
+  </a>
+
 </p>
 <div class="collapse" id="symp1">
   <div class="card card-body">
