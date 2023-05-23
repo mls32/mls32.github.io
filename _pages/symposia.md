@@ -22,7 +22,14 @@ nav_order: 3
 
 </p>
 <div class="collapse" id="symp1">
-  <div class="card card-body">
+    <div class="card card-body">
+    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
+  </div>
+</div>
+
+
+<div class="collapse" id="symp2">
+<div class="card card-body">
     <ul class="list-group">
       <li class="list-group-item"><p class="font-weight-bold">Jenny Murphy</p><br><p class="font-italic">Royal Holloway University, London, UK</p></li>
       <li class="list-group-item"><p class="font-weight-bold">Katja Langer </p><br><p class="font-italic">Ruhr Uni Bochum, DE</p></li>
@@ -30,10 +37,7 @@ nav_order: 3
       <li class="list-group-item"><p class="font-weight-bold">Michaela Rohr </p><br><p class="font-italic">Uni Saarland, DE</p></li>
     </ul>
   </div>
-</div>
 
-
-<div class="collapse" id="symp2">
   <div class="card card-body">
     <ul class="list-group">
       <li class="list-group-item"><p class="font-weight-bold">Nils Kraus</p><br><p class="font-italic">Psychologische Hochschule Berlin, DE</p></li>
@@ -63,12 +67,8 @@ nav_order: 3
   <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
     Link with href
   </a>
-  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
-    Button with data-target
-  </button>
+
 </p>
 <div class="collapse" id="collapseExample">
-  <div class="card card-body">
-    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
-  </div>
+
 </div>
