@@ -55,6 +55,7 @@ nav_order: 3
     <div class="card">
       <div class="card-header">Symposium 1 - Methods</div>
         <div class="card-body">
+          <p class="card-title">Chair: Julia Friedrich, University Lübeck, DE</p>
           <ul class="list-group">
             <li class="list-group-item"><p><b>Maike Salazar Kämpf</b><br><i>TU Dresden, DE</i></p></li>
             <li class="list-group-item"><p><b>Luke Aldridge-Waddon</b><br><i>Oxford Health NHS Foundation Trust, UK</i></p></li>
