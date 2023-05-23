@@ -45,7 +45,7 @@ nav_order: 4
             <li class="list-group-item"><p><strong>Nils Kraus</strong><br><i>Psychologische Hochschule Berlin, DE</i></p></li>
             <li class="list-group-item"><p><strong>Maxine Sherman</strong><br><i>University of Sussex, UK</i></p></li>
             <li class="list-group-item"><p><strong>Pete Lush</strong><br><i>University of Sussex, UK</i></p></li>
-            <li class="list-group-item"><p><strong>Anne Catherine Ewen</strong><br><i>Centre Hospitalier Neuro-Psychiatrique Luxemburg</i></p></li>
+            <li class="list-group-item"><p><strong>Anne Catherine Ewen</strong><br><i>CHNP Luxembourg, LUX</i></p></li>
           </ul>
           <p style="font-size: small">Chair: Marie Luise Schreiter, University Tübingen, DE</p>
         </div>
