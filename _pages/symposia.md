@@ -7,6 +7,8 @@ nav: true
 nav_order: 3
 ---
 
+{% include figure.html path="assets/img/timetable.png" title="schedule" class="img-fluid rounded z-depth-1" %}
+
 
 <div class="row row-cols-1 row-cols-md-2">
   <div class="col md-4">
