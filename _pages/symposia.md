@@ -9,7 +9,7 @@ nav_order: 4
 
 
 <p>
-  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+  <button class="btn btn-secondary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
     Open Schedule
   </button>
 </p>
@@ -22,7 +22,7 @@ nav_order: 4
 </div>
 
 
-<div class="row row-cols-1 row-cols-md-2">
+<div class="row gy-5 row-cols-1 row-cols-md-2">
   <div class="col">
     <div class="card">
       <div class="card-header h6">Symposium 1 - Methods</div>
@@ -33,7 +33,7 @@ nav_order: 4
             <li class="list-group-item"><p><strong>Stefanie Schelinski</strong><br><i>TU Dresden, DE</i></p></li>
             <li class="list-group-item"><p><strong>Michaela Rohr</strong><br><i>Saarland University, DE</i></p></li>
           </ul>
-          <p class="card-title lead">Chair: TBC</p>
+          <p style="font-size: small">Chair: TBC</p>
         </div>
     </div>
   </div>
@@ -61,7 +61,7 @@ nav_order: 4
             <li class="list-group-item"><p><strong>Christoph Korn</strong><br><i>Heidelberg University, DE</i></p></li>
             <li class="list-group-item"><p><strong>Warrick Roseboom</strong><br><i>University of Sussex, DE</i></p></li>
           </ul>
-          <p class="card-title lead">Chair: Nico Adelhöfer, Radboud University, NL</p>
+          <p style="font-size: small">Chair: Nico Adelhöfer, Radboud University, NL</p>
         </div>
     </div>
   </div>
@@ -75,7 +75,7 @@ nav_order: 4
             <li class="list-group-item"><p><strong>Barbara Schmidt</strong><br><i>University Hospital Jena, DE</i></p></li>
             <li class="list-group-item"><p><strong>Nina Gehrer</strong><br><i>University of Tübingen, DEE</i></p></li>
           </ul>
-          <p class="card-title lead">Chair: Julia Friedrich, University Lübeck, DE</p>
+          <p style="font-size: small">Chair: Julia Friedrich, University Lübeck, DE</p>
         </div>
     </div>
   </div>
