@@ -10,7 +10,7 @@ nav_order: 3
 
 <div class="row row-cols-1 row-cols-md-2">
   <div class="col mb-4">
-    <div class="card mb-3"">
+    <div class="card">
       <div class="card-header">Symposium 1 - Methods</div>
         <p class="card-title">Chair: TBC</p>
         <div class="card-body">
@@ -24,7 +24,7 @@ nav_order: 3
     </div>
   </div>
   <div class="col mb-4">
-    <div class="card mb-3"">
+    <div class="card">
       <div class="card-header">Symposium 2 - Expectations</div>
         <div class="card-body">
           <ul class="list-group">
@@ -37,7 +37,7 @@ nav_order: 3
     </div>
   </div>
   <div class="col mb-4">
-    <div class="card mb-3"">
+    <div class="card">
       <div class="card-header">Symposium 1 - Methods</div>
         <div class="card-body">
           <ul class="list-group">
@@ -50,7 +50,7 @@ nav_order: 3
     </div>
   </div>
   <div class="col mb-4">
-    <div class="card mb-3"">
+    <div class="card">
       <div class="card-header">Symposium 1 - Methods</div>
         <div class="card-body">
           <ul class="list-group">
