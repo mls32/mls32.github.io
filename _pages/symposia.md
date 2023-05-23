@@ -8,11 +8,11 @@ nav_order: 3
 ---
 
 
-<div class="card mb-3">
+<div class="card mb-3" style="max-width: 50%;">
   <div class="card-header">Symposium 1 - Methods</div>
   <div class="card-body">
     <ul class="list-group">
-      <li class="list-group-item"><p class="font-weight-bold">Jenny Murphy</p><br><p class="font-italic">Royal Holloway University, London, UK</p></li>
+      <li class="list-group-item"><p><b>Jenny Murphy</b><br><i>Royal Holloway University, London, UK</i></p></li>
       <li class="list-group-item"><p class="font-weight-bold">Katja Langer </p><br><p class="font-italic">Ruhr Uni Bochum, DE</p></li>
       <li class="list-group-item"><p class="font-weight-bold">Stefanie Schelinski</p><br><p class="font-italic">TU Dresden, DE </p></li>
       <li class="list-group-item"><p class="font-weight-bold">Michaela Rohr </p><br><p class="font-italic">Uni Saarland, DE</p></li>
