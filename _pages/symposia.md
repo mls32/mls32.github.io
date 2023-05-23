@@ -22,7 +22,7 @@ nav_order: 4
 </div>
 
 
-<div class="row gy-5 row-cols-1 row-cols-md-2">
+<div class="row row-cols-1 row-cols-md-auto">
   <div class="col">
     <div class="card">
       <div class="card-header h6">Symposium 1 - Methods</div>
