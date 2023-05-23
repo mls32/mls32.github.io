@@ -12,6 +12,7 @@ nav_order: 3
   <div class="col mb-4">
     <div class="card mb-3"">
       <div class="card-header">Symposium 1 - Methods</div>
+        <p class="card-title">Chair: TBC</p>
         <div class="card-body">
           <ul class="list-group">
             <li class="list-group-item"><p><b>Jenny Murphy</b><br><i>Royal Holloway University, London, UK</i></p></li>
@@ -64,6 +65,7 @@ nav_order: 3
         </div>
       </div>
     </div>
+  </div>
 </div>
 
 <div class="card card-body">
