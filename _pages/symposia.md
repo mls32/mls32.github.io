@@ -23,7 +23,7 @@ nav_order: 4
 
 
 <div class="row row-cols-1 row-cols-md-2">
-  <div class="col">
+  <div class="col mb-4">
     <div class="card">
       <div class="card-header h6">Symposium 1 - Methods</div>
         <div class="card-body">
@@ -37,7 +37,7 @@ nav_order: 4
         </div>
     </div>
   </div>
-  <div class="col">
+  <div class="col mb-4">
     <div class="card">
       <div class="card-header h6">Symposium 2 - Expectations</div>
         <div class="card-body">
@@ -51,7 +51,7 @@ nav_order: 4
         </div>
     </div>
   </div>
-  <div class="col">
+  <div class="col mb-4">
     <div class="card">
       <div class="card-header h6">Symposium 3 - Computational Models</div>
         <div class="card-body">
@@ -65,7 +65,7 @@ nav_order: 4
         </div>
     </div>
   </div>
-  <div class="col">
+  <div class="col mb-4">
     <div class="card">
       <div class="card-header h6">Symposium 4 - Interventions</div>
         <div class="card-body">
