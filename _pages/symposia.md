@@ -13,7 +13,7 @@ nav_order: 4
     Link with href
   </a>
   <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
-    Button with data-target
+    Open Schedule
   </button>
 </p>
 <div class="collapse" id="collapseExample">
@@ -50,7 +50,7 @@ nav_order: 4
             <li class="list-group-item"><p><strong>Pete Lush</strong><br><i>University of Sussex, UK</i></p></li>
             <li class="list-group-item"><p><strong>Anne Catherine Ewen</strong><br><i>Centre Hospitalier Neuro-Psychiatrique Luxemburg</i></p></li>
           </ul>
-          <p class="lead"><small>Chair: Marie Luise Schreiter, University Tübingen, DE</small></p>
+          <p style="font-size: x-small">Chair: Marie Luise Schreiter, University Tübingen, DE</p>
         </div>
     </div>
   </div>
