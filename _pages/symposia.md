@@ -69,6 +69,8 @@ nav_order: 3
     Button with data-bs-target
   </button>
 </p>
+<div class="collapse" id="collapseExample">
+  <div class="card card-body">
     Some placeholder content for the collapse component. This panel is hidden by default but revealed when the user activates the relevant trigger.
   </div>
 </div>
