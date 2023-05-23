@@ -8,15 +8,15 @@ nav_order: 4
 ---
 
 
-<button type="button" class="collapsible">Open Schedule</button>
+<button type="button" class="collapsible">Open Collapsible</button>
 <div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>Lorem ipsum...</p>
 </div>
 
 
 
 <div class="row row-cols-1 row-cols-md-2">
-  <div class="col md-4">
+  <div class="col md-6">
     <div class="card">
       <div class="card-header h5">Symposium 1 - Methods</div>
         <div class="card-body">
@@ -30,7 +30,7 @@ nav_order: 4
         </div>
     </div>
   </div>
-  <div class="col md-4">
+  <div class="col md-6">
     <div class="card">
       <div class="card-header h5">Symposium 2 - Expectations</div>
         <div class="card-body">
@@ -40,11 +40,11 @@ nav_order: 4
             <li class="list-group-item"><p><strong>Pete Lush</strong><br><i>University of Sussex, UK</i></p></li>
             <li class="list-group-item"><p><strong>Anne Catherine Ewen</strong><br><i>Centre Hospitalier Neuro-Psychiatrique Luxemburg</i></p></li>
           </ul>
-          <p class="card-title lead">Chair: Marie Luise Schreiter, University Tübingen, DE</p>
+          <p class="card-title lead" style="1em" >Chair: Marie Luise Schreiter, University Tübingen, DE</p>
         </div>
     </div>
   </div>
-  <div class="col md-4">
+  <div class="col md-6">
     <div class="card">
       <div class="card-header h5">Symposium 3 - Computational Models</div>
         <div class="card-body">
@@ -58,7 +58,7 @@ nav_order: 4
         </div>
     </div>
   </div>
-  <div class="col md-4">
+  <div class="col md-6">
     <div class="card">
       <div class="card-header h5">Symposium 4 - Interventions</div>
         <div class="card-body">
