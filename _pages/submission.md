@@ -8,12 +8,12 @@ nav_order: 5
 ---
 <div class="profile col-sm mt-3 mt-md-0 float-right">
   <a href="https://form.jotform.com/223261455349053" title="Personal Website">
-     {% include figure.html path="assets/img/registrationGuest.png" title="registration" class="img-fluid rounded z-depth-1 hoverable" %}
+     {% include figure.html path="assets/img/registrationgGuest.png" title="registration" class="img-fluid rounded z-depth-1 hoverable" %}
   </a>
  </div>
 
 <p class="font-weight-bold">Guest registration after the 25th May</p>
-There are limited spots available for guests, and you are welcome to register as a guest (without a talk/poster) via our submission form. Please note, that we are asking for a small later-registration fee for guests registering after the 25th May. If you have already registered or plan to register before this date, this will not apply to you.
+The registration for submissions is closed, but there are limited spots available for guests (without a talk/poster), and you are welcome to register as a guest via our submission form. Please note, that we are asking for a small later-registration fee of 30 € for guests registering after the 25th May. If you have already registered or plan to register before this date, this will not apply to you.
 <br>
 Details for payment options will be sent to you via email once you have registered. The fee will help us cover the costs of providing additional catering during the three days for all participants including short-notice attendees. If you have any questions regarding the fee or the event itself feel free to reach out to us via winconference@psycho.uni-tuebingen.de.
 
@@ -22,7 +22,7 @@ Details for payment options will be sent to you via email once you have register
 
 <br>
 <br>
-<p class="font-weight-bold">!Registration is closed for submissions!</p>
+<p class="font-weight-bold">Call for abstract submissions is closed</p>
 <div class="clearfix">
 We are looking forward to contributions (talks or posters) from practitioners/psychotherapists as well as young researchers who would like to contribute to the exchange between the psychological disciplines. We also encourage contributions from early career researchers from different disciplines of psychology who are interested in re-evaluating and improving the active collaboration between cognitive psychology, mechanistic neuroscience and clinical practice. Due to availability of places, we will give preference to registrations with a contribution, but places are also available for interested guests without a contribution.
 
