@@ -9,9 +9,6 @@ nav_order: 4
 
 
 <p>
-  <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-    Link with href
-  </a>
   <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
     Open Schedule
   </button>
@@ -26,7 +23,7 @@ nav_order: 4
 
 
 <div class="row row-cols-1 row-cols-md-2">
-  <div class="col md-6">
+  <div class="col">
     <div class="card">
       <div class="card-header h6">Symposium 1 - Methods</div>
         <div class="card-body">
@@ -40,7 +37,7 @@ nav_order: 4
         </div>
     </div>
   </div>
-  <div class="col md-6">
+  <div class="col">
     <div class="card">
       <div class="card-header h6">Symposium 2 - Expectations</div>
         <div class="card-body">
@@ -50,11 +47,11 @@ nav_order: 4
             <li class="list-group-item"><p><strong>Pete Lush</strong><br><i>University of Sussex, UK</i></p></li>
             <li class="list-group-item"><p><strong>Anne Catherine Ewen</strong><br><i>Centre Hospitalier Neuro-Psychiatrique Luxemburg</i></p></li>
           </ul>
-          <p style="font-size: x-small">Chair: Marie Luise Schreiter, University Tübingen, DE</p>
+          <p style="font-size: small">Chair: Marie Luise Schreiter, University Tübingen, DE</p>
         </div>
     </div>
   </div>
-  <div class="col md-6">
+  <div class="col">
     <div class="card">
       <div class="card-header h6">Symposium 3 - Computational Models</div>
         <div class="card-body">
@@ -68,7 +65,7 @@ nav_order: 4
         </div>
     </div>
   </div>
-  <div class="col md-6">
+  <div class="col">
     <div class="card">
       <div class="card-header h6">Symposium 4 - Interventions</div>
         <div class="card-body">
