@@ -38,3 +38,19 @@ nav_order: 3
     </ul>
   </div>
 </div>
+
+<p>
+  <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+    Symposium 3 - Computational Models
+  </button>
+</p>
+<div class="collapse" id="collapseExample">
+  <div class="card card-body">
+    <ul class="list-group">
+      <li class="list-group-item"><p class="font-weight-bold">Isabel Berwian</p><br><p class="font-italic">Princeton Neuroscience Institute, Princeton University, US</p></li>
+      <li class="list-group-item"><p class="font-weight-bold">Ismail Guennouni</p><br><p class="font-italic">UCL, UK / Mannheim University, DE</p></li>
+      <li class="list-group-item"><p class="font-weight-bold">Christoph Korn</p><br><p class="font-italic">Heidelberg University, DE</p></li>
+      <li class="list-group-item"><p class="font-weight-bold">Warrick Roseboom</p><br><p class="font-italic">University of Sussex, DE</p></li>
+    </ul>
+  </div>
+</div>
