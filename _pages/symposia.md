@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-<a class="btn btn-primary" data-bs-toggle="collapse" href="#symp1" role="button" aria-expanded="false" aria-controls="symp1">
+<!-- <a class="btn btn-primary" data-bs-toggle="collapse" href="#symp1" role="button" aria-expanded="false" aria-controls="symp1">
   Symposium 1 - Methods
 </a>
 
@@ -56,7 +56,7 @@ nav_order: 3
       <li class="list-group-item"><p class="font-weight-bold">Warrick Roseboom</p><br><p class="font-italic">University of Sussex, DE</p></li>
     </ul>
   </div>
-</div>
+</div> -->
 
 
  
@@ -69,8 +69,6 @@ nav_order: 3
     Button with data-bs-target
   </button>
 </p>
-<div class="collapse" id="collapseExample">
-  <div class="card card-body">
     Some placeholder content for the collapse component. This panel is hidden by default but revealed when the user activates the relevant trigger.
   </div>
 </div>
