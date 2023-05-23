@@ -42,7 +42,7 @@ nav_order: 4
             <li class="list-group-item"><p><strong>Pete Lush</strong><br><i>University of Sussex, UK</i></p></li>
             <li class="list-group-item"><p><strong>Anne Catherine Ewen</strong><br><i>Centre Hospitalier Neuro-Psychiatrique Luxemburg</i></p></li>
           </ul>
-          <p class="card-title lead" style="0.7em" >Chair: Marie Luise Schreiter, University Tübingen, DE</p>
+          <p class="card-title lead"><small>Chair: Marie Luise Schreiter, University Tübingen, DE</small></p>
         </div>
     </div>
   </div>
