@@ -73,7 +73,7 @@ nav_order: 4
             <li class="list-group-item"><p><strong>Maike Salazar Kämpf</strong><br><i>TU Dresden, DE</i></p></li>
             <li class="list-group-item"><p><strong>Luke Aldridge-Waddon</strong><br><i>Oxford Health NHS Foundation Trust, UK</i></p></li>
             <li class="list-group-item"><p><strong>Barbara Schmidt</strong><br><i>University Hospital Jena, DE</i></p></li>
-            <li class="list-group-item"><p><strong>Nina Gehrer</strong><br><i>University of Tübingen, DEE</i></p></li>
+            <li class="list-group-item"><p><strong>Nina Gehrer</strong><br><i>University of Tübingen, DE</i></p></li>
           </ul>
           <p style="font-size: small">Chair: Julia Friedrich, University Lübeck, DE</p>
         </div>
