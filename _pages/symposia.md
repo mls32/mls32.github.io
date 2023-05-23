@@ -10,9 +10,11 @@ nav_order: 4
 
 <button type="button" class="collapsible">Open Collapsible</button>
 <div class="content">
-  <p>Lorem ipsum...</p>
-</div>
+	<div>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  </div>
 
+</div>
 
 
 <div class="row row-cols-1 row-cols-md-2">
