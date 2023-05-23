@@ -21,7 +21,6 @@ nav_order: 3
             <li class="list-group-item"><p><b>Michaela Rohr</b><br><i>Saarland University, DE</i></p></li>
           </ul>
         </div>
-      </div>
     </div>
   </div>
   <div class="col mb-4">
@@ -35,7 +34,6 @@ nav_order: 3
             <li class="list-group-item"><p><b>Michaela Rohr</b><br><i>Saarland University, DE</i></p></li>
           </ul>
         </div>
-      </div>
     </div>
   </div>
   <div class="col mb-4">
@@ -49,7 +47,6 @@ nav_order: 3
             <li class="list-group-item"><p><b>Michaela Rohr</b><br><i>Saarland University, DE</i></p></li>
           </ul>
         </div>
-      </div>
     </div>
   </div>
   <div class="col mb-4">
@@ -63,7 +60,6 @@ nav_order: 3
             <li class="list-group-item"><p><b>Michaela Rohr</b><br><i>Saarland University, DE</i></p></li>
           </ul>
         </div>
-      </div>
     </div>
   </div>
 </div>
