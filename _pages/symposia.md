@@ -11,57 +11,57 @@ nav_order: 3
 <div class="row row-cols-1 row-cols-md-2">
   <div class="col md-4">
     <div class="card">
-      <div class="card-header">Symposium 1 - Methods</div>
+      <div class="card-header h5">Symposium 1 - Methods</div>
         <div class="card-body">
           <ul class="list-group">
-            <li class="list-group-item"><p><b>Jenny Murphy</b><br><i>Royal Holloway University, London, UK</i></p></li>
-            <li class="list-group-item"><p><b>Katja Langer</b><br><i>Ruhr University Bochum, DE</i></p></li>
-            <li class="list-group-item"><p><b>Stefanie Schelinski</b><br><i>TU Dresden, DE</i></p></li>
-            <li class="list-group-item"><p><b>Michaela Rohr</b><br><i>Saarland University, DE</i></p></li>
+            <li class="list-group-item"><p><strong>Jenny Murphy</strong><br><i>Royal Holloway University, London, UK</i></p></li>
+            <li class="list-group-item"><p><strong>Katja Langer</strong><br><i>Ruhr University Bochum, DE</i></p></li>
+            <li class="list-group-item"><p><strong>Stefanie Schelinski</strong><br><i>TU Dresden, DE</i></p></li>
+            <li class="list-group-item"><p><strong>Michaela Rohr</strong><br><i>Saarland University, DE</i></p></li>
           </ul>
-          <p class="card-title">Chair: TBC</p>
+          <p class="card-title lead">Chair: TBC</p>
         </div>
     </div>
   </div>
   <div class="col md-4">
     <div class="card">
-      <div class="card-header">Symposium 2 - Expectations</div>
+      <div class="card-header h5">Symposium 2 - Expectations</div>
         <div class="card-body">
           <ul class="list-group">
-            <li class="list-group-item"><p><b>Nils Kraus</b><br><i>Psychologische Hochschule Berlin, DE</i></p></li>
-            <li class="list-group-item"><p><b>Maxine Sherman</b><br><i>University of Sussex, UK</i></p></li>
-            <li class="list-group-item"><p><b>Pete Lush</b><br><i>University of Sussex, UK</i></p></li>
-            <li class="list-group-item"><p><b>Anne Catherine Ewen</b><br><i>Centre Hospitalier Neuro-Psychiatrique Luxemburg</i></p></li>
+            <li class="list-group-item"><p><strong>Nils Kraus</strong><br><i>Psychologische Hochschule Berlin, DE</i></p></li>
+            <li class="list-group-item"><p><strong>Maxine Sherman</strong><br><i>University of Sussex, UK</i></p></li>
+            <li class="list-group-item"><p><strong>Pete Lush</strong><br><i>University of Sussex, UK</i></p></li>
+            <li class="list-group-item"><p><strong>Anne Catherine Ewen</strong><br><i>Centre Hospitalier Neuro-Psychiatrique Luxemburg</i></p></li>
           </ul>
-          <p class="card-title">Chair: Marie Luise Schreiter, University Tübingen, DE</p>
+          <p class="card-title lead">Chair: Marie Luise Schreiter, University Tübingen, DE</p>
         </div>
     </div>
   </div>
   <div class="col md-4">
     <div class="card">
-      <div class="card-header">Symposium 3 - Computational Models</div>
+      <div class="card-header h5">Symposium 3 - Computational Models</div>
         <div class="card-body">
           <ul class="list-group">
-            <li class="list-group-item"><p><b>Isabel Berwian</b><br><i>Princeton University, US</i></p></li>
-            <li class="list-group-item"><p><b>Ismail Guennouni</b><br><i>UCL, UK / Mannheim University, DE</i></p></li>
-            <li class="list-group-item"><p><b>Christoph Korn</b><br><i>Heidelberg University, DE</i></p></li>
-            <li class="list-group-item"><p><b>Warrick Roseboom</b><br><i>University of Sussex, DE</i></p></li>
+            <li class="list-group-item"><p><strong>Isabel Berwian</strong><br><i>Princeton University, US</i></p></li>
+            <li class="list-group-item"><p><strong>Ismail Guennouni</strong><br><i>UCL, UK / Mannheim University, DE</i></p></li>
+            <li class="list-group-item"><p><strong>Christoph Korn</strong><br><i>Heidelberg University, DE</i></p></li>
+            <li class="list-group-item"><p><strong>Warrick Roseboom</strong><br><i>University of Sussex, DE</i></p></li>
           </ul>
-          <p class="card-title">Chair: Nico Adelhöfer, Radboud University, NL</p>
+          <p class="card-title lead">Chair: Nico Adelhöfer, Radboud University, NL</p>
         </div>
     </div>
   </div>
   <div class="col md-4">
     <div class="card">
-      <div class="card-header">Symposium 4 - Interventions</div>
+      <div class="card-header h5">Symposium 4 - Interventions</div>
         <div class="card-body">
           <ul class="list-group">
-            <li class="list-group-item"><p><b>Maike Salazar Kämpf</b><br><i>TU Dresden, DE</i></p></li>
-            <li class="list-group-item"><p><b>Luke Aldridge-Waddon</b><br><i>Oxford Health NHS Foundation Trust, UK</i></p></li>
-            <li class="list-group-item"><p><b>Barbara Schmidt</b><br><i>University Hospital Jena, DE</i></p></li>
-            <li class="list-group-item"><p><b>Nina Gehrer</b><br><i>University of Tübingen, DEE</i></p></li>
+            <li class="list-group-item"><p><strong>Maike Salazar Kämpf</strong><br><i>TU Dresden, DE</i></p></li>
+            <li class="list-group-item"><p><strong>Luke Aldridge-Waddon</strong><br><i>Oxford Health NHS Foundation Trust, UK</i></p></li>
+            <li class="list-group-item"><p><strong>Barbara Schmidt</strong><br><i>University Hospital Jena, DE</i></p></li>
+            <li class="list-group-item"><p><strong>Nina Gehrer</strong><br><i>University of Tübingen, DEE</i></p></li>
           </ul>
-          <p class="card-title">Chair: Julia Friedrich, University Lübeck, DE</p>
+          <p class="card-title lead">Chair: Julia Friedrich, University Lübeck, DE</p>
         </div>
     </div>
   </div>
