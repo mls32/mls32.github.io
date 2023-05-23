@@ -75,7 +75,7 @@ nav_order: 4
             <li class="list-group-item"><p><strong>Barbara Schmidt</strong><br><i>University Hospital Jena, DE</i></p></li>
             <li class="list-group-item"><p><strong>Nina Gehrer</strong><br><i>University of Tübingen, DE</i></p></li>
           </ul>
-          <p style="font-size: small">C<br>hair: Julia Friedrich, University Lübeck, DE</p>
+          <p style="font-size: small"><br>Chair: Julia Friedrich, University Lübeck, DE</p>
         </div>
     </div>
   </div>
