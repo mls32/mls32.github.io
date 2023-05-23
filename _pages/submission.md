@@ -4,7 +4,7 @@ permalink: /submissions/
 title: registration
 description:
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 <div class="profile col-sm mt-3 mt-md-0 float-right">
   <a href="https://form.jotform.com/223261455349053" title="Personal Website">

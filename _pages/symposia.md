@@ -4,10 +4,15 @@ permalink: /symposia/
 title: symposia
 description:
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
-{% include figure.html path="assets/img/timetable.png" title="schedule" class="img-fluid rounded z-depth-1" %}
+
+<button type="button" class="collapsible">Open Schedule</button>
+<div class="content">
+  {% include figure.html path="assets/img/timetable.png" title="schedule" class="img-fluid rounded z-depth-1" %}
+</div>
+
 
 
 <div class="row row-cols-1 row-cols-md-2">
