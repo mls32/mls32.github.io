@@ -8,11 +8,17 @@ nav_order: 3
 ---
 
 <p>
-  <a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+  <a class="btn btn-primary" data-bs-toggle="collapse" href="#symp1" role="button" aria-expanded="false" aria-controls="collapseExample">
     Symposium 1 - Methods
   </button>
+  <a class="btn btn-primary" data-bs-toggle="collapse" href="#symp2" role="button" aria-expanded="false" aria-controls="collapseExample">
+    Symposium 2 - Expectations
+  </button>
+  <a class="btn btn-primary" data-bs-toggle="collapse" href="#symp3" role="button" aria-expanded="false" aria-controls="collapseExample">
+    Symposium 3 - Computational Models
+  </button>
 </p>
-<div class="collapse" id="collapseExample">
+<div class="collapse" id="symp1">
   <div class="card card-body">
     <ul class="list-group">
       <li class="list-group-item"><p class="font-weight-bold">Jenny Murphy</p><br><p class="font-italic">Royal Holloway University, London, UK</p></li>
@@ -23,12 +29,8 @@ nav_order: 3
   </div>
 </div>
 
-<p>
-  <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
-    Symposium 2 - Expectations
-  </button>
-</p>
-<div class="collapse" id="collapseExample">
+
+<div class="collapse" id="symp2">
   <div class="card card-body">
     <ul class="list-group">
       <li class="list-group-item"><p class="font-weight-bold">Nils Kraus</p><br><p class="font-italic">Psychologische Hochschule Berlin, DE</p></li>
@@ -39,12 +41,8 @@ nav_order: 3
   </div>
 </div>
 
-<p>
-  <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
-    Symposium 3 - Computational Models
-  </button>
-</p>
-<div class="collapse" id="collapseExample">
+
+<div class="collapse" id="symp3">
   <div class="card card-body">
     <ul class="list-group">
       <li class="list-group-item"><p class="font-weight-bold">Isabel Berwian</p><br><p class="font-italic">Princeton Neuroscience Institute, Princeton University, US</p></li>
