@@ -33,7 +33,7 @@ nav_order: 4
             <li class="list-group-item"><p><strong>Stefanie Schelinski</strong><br><i>TU Dresden, DE</i></p></li>
             <li class="list-group-item"><p><strong>Michaela Rohr</strong><br><i>Saarland University, DE</i></p></li>
           </ul>
-          <p style="font-size: small"><br>Chair: TBC</p>
+          <p style="font-size: medium"><br>Chair: Nina Gehrer, University Tübingen, DE</p>
         </div>
     </div>
   </div>
@@ -47,7 +47,7 @@ nav_order: 4
             <li class="list-group-item"><p><strong>Pete Lush</strong><br><i>University of Sussex, UK</i></p></li>
             <li class="list-group-item"><p><strong>Anne Catherine Ewen</strong><br><i>CHNP Luxembourg, LUX</i></p></li>
           </ul>
-          <p style="font-size: small"><br>Chair: Marie Luise Schreiter, University Tübingen, DE</p>
+          <p style="font-size: medium"><br>Chair: Marie Luise Schreiter, University Tübingen, DE</p>
         </div>
     </div>
   </div>
@@ -61,7 +61,7 @@ nav_order: 4
             <li class="list-group-item"><p><strong>Christoph Korn</strong><br><i>Heidelberg University, DE</i></p></li>
             <li class="list-group-item"><p><strong>Warrick Roseboom</strong><br><i>University of Sussex, DE</i></p></li>
           </ul>
-          <p style="font-size: small"><br>Chair: Nico Adelhöfer, Radboud University, NL</p>
+          <p style="font-size: medium"><br>Chair: Nico Adelhöfer, Radboud University, NL</p>
         </div>
     </div>
   </div>
@@ -75,7 +75,7 @@ nav_order: 4
             <li class="list-group-item"><p><strong>Barbara Schmidt</strong><br><i>University Hospital Jena, DE</i></p></li>
             <li class="list-group-item"><p><strong>Nina Gehrer</strong><br><i>University of Tübingen, DE</i></p></li>
           </ul>
-          <p style="font-size: small"><br>Chair: Julia Friedrich, University Lübeck, DE</p>
+          <p style="font-size: medium"><br>Chair: Julia Friedrich, University Lübeck, DE</p>
         </div>
     </div>
   </div>
