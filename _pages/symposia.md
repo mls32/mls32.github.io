@@ -59,7 +59,7 @@ nav_order: 4
             <li class="list-group-item"><p><strong>Isabel Berwian</strong><br><i>Princeton University, US</i></p></li>
             <li class="list-group-item"><p><strong>Ismail Guennouni</strong><br><i>UCL, UK / Mannheim University, DE</i></p></li>
             <li class="list-group-item"><p><strong>Christoph Korn</strong><br><i>Heidelberg University, DE</i></p></li>
-            <li class="list-group-item"><p><strong>Warrick Roseboom</strong><br><i>University of Sussex, DE</i></p></li>
+            <li class="list-group-item"><p><strong>Warrick Roseboom</strong><br><i>University of Sussex, UK</i></p></li>
           </ul>
           <p style="font-size: medium"><br>Chair: Nico Adelhöfer, Radboud University, NL</p>
         </div>
