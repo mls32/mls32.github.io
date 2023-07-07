@@ -69,7 +69,7 @@ nav_order: 4
     <tr>
       <th scope="row">11</th>
       <td>Z. Pálffy</td>
-      <td>TBD</td>
+      <td>Individual differences in perceptual decision-making: assessment of temporal stability</td>
     </tr>
     <tr>
       <th scope="row">12</th>
