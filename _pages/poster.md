@@ -39,7 +39,7 @@ nav_order: 5
     <tr>
       <th scope="row">5</th>
       <td>L. Kirchner</td>
-      <td>TBD</td>
+      <td>Modeling distorted social functioning in mental disorders: An active inference approach</td>
     </tr>
     <tr>
       <th scope="row">6</th>
@@ -84,7 +84,7 @@ nav_order: 5
     <tr>
       <th scope="row">14</th>
       <td>K. Witte</td>
-      <td>TBD</td>
+      <td>People who worry more explore more: Relating anxious and depressive traits to exploration behaviour in safety and risk</td>
     </tr>
     <tr>
       <th scope="row">15</th>
