@@ -7,12 +7,12 @@ nav: true
 nav_order: 4
 ---
 
-<table class="table">
+<table class="table table-striped table-hover">
   <thead>
     <tr>
       <th scope="col">#</th>
       <th scope="col">Name</th>
-      <th scope="col">Title</th>
+      <th scope="col">Poster Title</th>
     </tr>
   </thead>
   <tbody>
