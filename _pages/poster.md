@@ -7,6 +7,10 @@ nav: true
 nav_order: 5
 ---
 
+12th July, 10:45-12:15 in the DAI library (top floor)
+<br>
+<br>
+
 <table class="table table-striped table-hover">
   <thead>
     <tr>
